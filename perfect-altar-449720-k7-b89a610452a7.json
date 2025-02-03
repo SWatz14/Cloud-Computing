@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "perfect-altar-449720-k7",
+  "private_key_id": "b89a610452a77c8abc5335f588cc9f5928465f79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMkw15FcFAU9iS\nQkgcJ9ea7mBeAsUGQSw6vCKL1DObN+FIrPU0TDej9RX3Jjz+pi5qSu3340rbhVLE\nvvKxVEtUvizZVQmDgL+kJdQMANMgu2+kDLqCx99GLjwWK86KlQUrwBbQ+JrO9cyx\nHY7SUqi+gNgp069F3E/GeY6DBQ/3Kx0QMhOksRYLvV8ovJGg4d2uIHDedU6XkKnJ\n2MRsUY8J1btvExrsqctFgvfbSvMZvemBSQrJBJsAmdFurwWZg6THJyzDHr7Zy2yq\nM2SlPFA5zjed/k1D6WSUBd9nnHjTmkNA4v0n0y8dLrcXBdCo5ufTNnEXDQOIs3qK\ngsva3aEfAgMBAAECggEANfoXH8njMPyg+ZQa1TjVOGfUt/RvS9YFki4AQ9nA0RZ1\nWi8TXjfv23R1sTdND2inBOhtlJQBf+YjIGnDjaS04j69wNu+sfBjZbeiwtMkPnrK\nRN8gVKxDhtKk/sxmW98Zo7F38VisNNC7/rw/RXI42iFmHzVppTURqr+tIZD1ju28\n5YTmOgkqqdQ07nIKSmOs2gjnIY/goXxGZkB5bTakXF8RsTeTnG1le7pCmc/leTuB\nGJkEnoMe+KIse/70B1jLlZIrLPR0TdzBJ2I8MOn/Qod8b1lGA3Ef6XffGMP0iz03\nDDBtlxvldoQIgQalSBFGskZU2W7hzINMFVWZKgImgQKBgQC+Bj5MXNg+BZhp3+gJ\nFTz+yhfdBEZgkKNRsgyKso2gUgnMlIXqHwuJyshWI/dnY5wjKlara4rHS+e09RF3\ntJYg5pRMLhRiwmyCyGP2wmUMgn1zfVqlWtBiggjKvoHmSJO/yTD/lHHvFtrrWmo1\nRfE3wL0apDx0j7lumMncAPzNgQKBgQC9YZhi4Nc+oSmtANsoonPPAisqDYQ5TyGi\ng4Lr81/s6szKwG8+LkRsaJFQyJmpIXFUcOWna64ckVuvTmQHy4RsTCVtifNUk0ST\nTDi8JA73IL8hAly0ja+tfZDam0nK6kSh5rgfPjn2BD85yIJAqTl2jukbnCKjMU3T\nb8ZkC/T+nwKBgAXyZhK3uSC/xhRSKI3YN091/acyEg3FmQbefpv8mIgS6TGY2FQK\nYq8ORJTFjWGT8Xf8RDgbJn20N20nWkOXyDcBYFS+AG9SzFiPculvDgCFOO3bV3Hj\nVLAwh5vouGH/lXgkEL9+4s3rtjA1ZSuDo9ft1T03NJklQlVevLqA4WiBAoGBAIEB\nEVARvy4PlJcf5Sp59w+Fd6fOy0pKqCvPEAjwoWB+1YArs9uUotGCLbLs4xd+C3gs\n65OvW0xkjCMP8D4LGaq3+Cr09MehBe6c1mz61yLqsKeot0Pa3Ff/GASCEbNi/9uV\nkcjel5cJb5RKDMhFPjqPwSUop8Oo203zbx5JstsbAoGAQFCcmj8a+oM415cdGuYW\n9e+vfONfEJNJH/AB/OdBWn3QqEfDGQwuzx6Vx2gT+UrpvcMbtf2LKSUijE0O1rkS\njQduiUA+LsyXljkIztk1vH172UUBWi7CrZcoXbuCbMQCTlKvYeG6GPmneZGcH3DN\nmBkTX7LOMxZKNWUOotE8S4w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsub-system@perfect-altar-449720-k7.iam.gserviceaccount.com",
+  "client_id": "109230192854266505669",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsub-system%40perfect-altar-449720-k7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
